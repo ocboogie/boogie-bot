@@ -1,0 +1,4 @@
+[package]
+authors = ["ocboogie <boogie@mikulec.com>"]
+name = "emoji_converter"
+version = "0.1.0"

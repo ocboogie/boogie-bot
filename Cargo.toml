@@ -1,0 +1,18 @@
+[package]
+authors = ["ocboogie <boogie@mikulec.com>"]
+name = "boogie-bot"
+version = "0.1.0"
+[dependencies]
+dotenv = "0.13.0"
+env_logger = "0.5.10"
+failure = "0.1.1"
+log = "0.4.2"
+serde = "1.0.66"
+serde_derive = "1.0.66"
+serde_json = "1.0.20"
+serenity = "0.5.4"
+timeago = "0.1.5"
+typemap = "0.3.3"
+
+[dependencies.emoji_converter]
+path = "emoji_converter"
